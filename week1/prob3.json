@@ -1,0 +1,13 @@
+{
+    "name": "vincent773",
+    "job": "student",
+    "age": "21",
+    "hobby": ["art movies", "games"],
+    "course_table": [
+        {"name": "Research Project I", "id": "CSED499I"},
+        {"name": "Understanding Art", "id": "ARTS312"},
+        {"name": "Algorithms", "id": "CSED331"},
+        {"name": "Core Training I", "id": "GEDU169"},
+        {"name": "Computer Architecture", "id": "CSED311"}
+    ]
+}
